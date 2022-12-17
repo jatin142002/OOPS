@@ -1,4 +1,4 @@
-//------> LECTURE 3 : Friend Class in CPP <---------//
+//------> LECTURE 4 : Friend Class in CPP <---------//
 
 #include <bits/stdc++.h>
 using namespace std;
